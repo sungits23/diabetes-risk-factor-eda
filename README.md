@@ -55,5 +55,5 @@ Note: If running on Kaggle, the dataset path is pre-configured. For local use, d
 
 👩‍💻 Author
 Sania Roy
-B.Sc. (Hons) Data Science | Techno India University
+B.Sc. (Hons) Data Science 
 GitHub
